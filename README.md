@@ -1,0 +1,1 @@
+This website will be about 19th century philosopher and some say, 'Father of Modern Psychology', William James. The information will be derived from Wikipedia as directed in the course by Aquent Gymnasium, Modern Web Design.
