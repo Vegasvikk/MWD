@@ -1,0 +1,9 @@
+
+
+Notes--I didn't find assignments in Chapter 4 particularly difficult because I've done them all before; I'm just refining my knowledge of HTML5 and CSS.
+
+I was interested to see in Wikipedia that they're pretty careful about accessibility; I didn't know how to do <cite> tags and aria-label stuff and I hope that we spend more time on this in the future.
+
+I also found that when I made the all selector * border-box everything worked a lot better.
+
+I'm ready to move onto Chapter 5 and learn about CSS positioning because I don't want to use floats anymore. I think the time is for flex-grid and css grid.
