@@ -3,14 +3,57 @@
 }
 
 body {
-	   background-color: #ececc6;
+	   background-color: #b3b396;
 	   color: 232322;
 	   font: 1em/1.5 Georgia, Garamond, serif;
 	   
 	}
+h1 {
+	margin-left: 1em;
+	padding: 3px 10px;
+	border-radius: 5px;
+}
 
-main, header, footer {
+
+main, header, footer, h2 {
 	padding: 10px;
+	background-color: #ececc6;
+	border: 1px dotted #676763;
+	border-radius: 5px;
+}
+header, main, footer {
+	margin-bottom: 20px;
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ececc6+0,ececc6+1,c3c384+100 */
+background: #ececc6; /* Old browsers */
+background: -moz-linear-gradient(top,  #ececc6 0%, #ececc6 1%, #c3c384 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #ececc6 0%,#ececc6 1%,#c3c384 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #ececc6 0%,#ececc6 1%,#c3c384 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ececc6', endColorstr='#c3c384',GradientType=0 ); /* IE6-9 */
+
+}
+
+h2 {
+	
+	margin-bottom: 20px;
+	padding-bottom: 0px;
+}
+ .short {
+ 	background: #ececc6;
+	width: 4em;
+}
+
+.short2 {
+	background: #ececc6;
+	width: 8.5em;
+}
+
+.short3 {
+	background: #ececc6;
+	width: 6em;
+}
+
+.noborder  {
+	border: 0;
 }
 
 	a {
@@ -150,4 +193,16 @@ figcaption {
 
 	.leftfloat {
 		float: left;
+	}
+
+	.clearright{
+		clear: right;
+	}
+
+	.layout-container::after {
+		content: " ";
+		display: block;
+		clear: both;
+		width: 0;
+		height: 0;
 	}

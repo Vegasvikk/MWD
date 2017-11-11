@@ -6,4 +6,4 @@ I was interested to see in Wikipedia that they're pretty careful about accessibi
 
 I also found that when I made the all selector * border-box everything worked a lot better.
 
-I'm ready to move onto Chapter 5 and learn about CSS positioning because I don't want to use floats anymore. I think the time is for flex-grid and css grid.
+I'm ready to move onto Chapter 5 and learn about CSS positioning because I don't want to use floats anymore. I think the time is forgit  flex-grid and css grid.
